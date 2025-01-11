@@ -1,0 +1,2 @@
+gcloud functions deploy predict2 --runtime python310 --trigger-http
+--memory 1Gi --project evident-door-421003
